@@ -7,9 +7,6 @@
 ---
 
 <div align="center">
-<table>
-  <tr>
-    <td >
       <h3>💡 About Me</h3>
       <ul>
         <li>📍 Manaus, AM</li>
@@ -18,12 +15,6 @@
         <li>📚 Aprendendo atualmente: <code>UX/UI Design</code></li>
         <li>🚀 Sempre buscando novos desafios e aprendizados</li>
       </ul>
-    </td>
-    <td>
-     <img src="https://github.com/cleciofjur/About-ME/blob/main/Software%20engineer-amico.png" width="250px"/>
-    </td>
-  </tr>
-</table>
 </div>
   
 ---
