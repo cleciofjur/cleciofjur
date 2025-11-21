@@ -6,8 +6,8 @@
 
 ---
 
-<div align="center">
-      <h3>💡 About Me</h3>
+<div align="left">
+      <h3>💡 Sobre mim</h3>
       <ul>
         <li>📍 Manaus, AM</li>
         <li>🎓 Estudante de <strong>Engenharia de Software</strong></li>
