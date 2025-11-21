@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Clecio Júnior | Software Engineering Student</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello,+World!%22);">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=407BFF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello,+World!%22);">
 </p>
 
 ---
@@ -62,8 +62,3 @@
 
 </div>
 
----
-
-<p align="center">
-  <b>"Programação te faz perceber que você pode odiar até mesmo o que ama!"</b>
-</p>
